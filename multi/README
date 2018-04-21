@@ -1,0 +1,8 @@
+Made for (single server)-(multi client) socket programming
+
+Client: client.cpp, util.h
+Server: server.cpp, util.h
+Cleint1 (for example): client1.cpp, util1.h
+
+for client, fix util.h & client.cpp
+for server, see util.h, fix server.cpp
